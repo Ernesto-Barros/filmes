@@ -77,3 +77,5 @@ for programa in minha_playlist.listagem:
     print(programa)
 
 print(f'Tamanho: {len(minha_playlist.listagem)}')
+
+print("hello world")
